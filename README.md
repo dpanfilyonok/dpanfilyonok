@@ -21,6 +21,26 @@
 
 ###
 
+[**Brahma.FSharp.REPL**](https://github.com/dpanfilyonok/Brahma.FSharp.REPL) [owner] \
+Web app that allows you to translate F# code into OpenCL code online.
+
+###
+
+[**Brahma.FSharp**](https://github.com/dpanfilyonok/Brahma.FSharp) [contributor] \
+Library that provides the ability to use the OpenCL framework in F# programs. 
+
+###
+
+[**GraphBLAS-sharp**](https://github.com/dpanfilyonok/GraphBLAS-sharp) [contributor] \
+Library that implements a set of linear algebra operations for sparse structures on the GPU
+and GraphBLAS API for F# programming language. 
+
+###
+
+<h3 align="center">Tech Stack 💻</h3>
+
+###
+
 <h3 align="center">GitHub Stats 📊</h3>
 
 ###
