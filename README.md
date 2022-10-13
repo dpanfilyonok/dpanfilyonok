@@ -15,33 +15,38 @@
   </a>
 </div>
 
-###
-
 <h2 align="center">Projects 👨‍💻
 
-### Brahma.FSharp.REPL [<img src="./link.png" width="16px">](https://github.com/dpanfilyonok/Brahma.FSharp.REPL)
+### Brahma.FSharp.REPL [<img src="resources/black-link.png" width="16px">](https://github.com/dpanfilyonok/Brahma.FSharp.REPL)
 Web app that allows you to translate F# code into OpenCL code online. 
 
-### Brahma.FSharp [contributor] [<img src="./link.png" width="16px">](https://github.com/dpanfilyonok/Brahma.FSharp) 
+### Brahma.FSharp [contributor] [<img src="resources/black-link.png" width="16px">](https://github.com/dpanfilyonok/Brahma.FSharp) 
 Library that provides the ability to use the OpenCL framework in F# programs. 
 
-### GraphBLAS-sharp [contributor] [<img src="./link.png" width="16px">](https://github.com/dpanfilyonok/GraphBLAS-sharp) 
+### GraphBLAS-sharp [contributor] [<img src="resources/black-link.png" width="16px">](https://github.com/dpanfilyonok/GraphBLAS-sharp) 
 Library that implements a set of linear algebra operations for sparse structures on the GPU
 and GraphBLAS API for F# programming language. 
 
-###
-
 <h2 align="center">Tech Stack 💻</h2>
 
-###
+```f#
+let stack = {
+    code = ["C#"; "F#"; "Scala"]
+    technologies = ["ASP.NET Core"; "EF Core"; "OpenCL"]
+    tools = ["Git"; "PostgreSQL"; "Docker"]
+    languages = ["ru_RU"; "en_US"]
+    
+    interests = [
+        "functional programming"
+        "distributed apps"
+        "web backend"
+    ]
+}
+```
 
 <h2 align="center">GitHub Stats 📊</h2>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&locale=en&hide_border=true&username=dpanfilyonok" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&username=dpanfilyonok" height="150" alt="languages graph"  />
 </div>
-
-###
