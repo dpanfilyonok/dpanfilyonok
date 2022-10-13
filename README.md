@@ -1,8 +1,8 @@
-<h2 align="left">Hi I'm Dmitriy 👋</h2>
+<h1 align="center">Hi I'm Dmitriy 👋</h1>
 
 ###
 
-<p align="left">I'm a Software Engineer from Saint-Petersburg, Russia.</p>
+<p align="center">I'm a Software Engineer from Saint-Petersburg, Russia.</p>
 
 ###
 
@@ -17,31 +17,25 @@
 
 ###
 
-<h3 align="center">Projects 👨‍💻</h3>
+<h2 align="center">Projects 👨‍💻
 
-###
+### Brahma.FSharp.REPL [<img src="./link.png" width="16px">](https://github.com/dpanfilyonok/Brahma.FSharp.REPL)
+Web app that allows you to translate F# code into OpenCL code online. 
 
-[**Brahma.FSharp.REPL**](https://github.com/dpanfilyonok/Brahma.FSharp.REPL) [owner] \
-Web app that allows you to translate F# code into OpenCL code online.
-
-###
-
-[**Brahma.FSharp**](https://github.com/dpanfilyonok/Brahma.FSharp) [contributor] \
+### Brahma.FSharp [contributor] [<img src="./link.png" width="16px">](https://github.com/dpanfilyonok/Brahma.FSharp) 
 Library that provides the ability to use the OpenCL framework in F# programs. 
 
-###
-
-[**GraphBLAS-sharp**](https://github.com/dpanfilyonok/GraphBLAS-sharp) [contributor] \
+### GraphBLAS-sharp [contributor] [<img src="./link.png" width="16px">](https://github.com/dpanfilyonok/GraphBLAS-sharp) 
 Library that implements a set of linear algebra operations for sparse structures on the GPU
 and GraphBLAS API for F# programming language. 
 
 ###
 
-<h3 align="center">Tech Stack 💻</h3>
+<h2 align="center">Tech Stack 💻</h2>
 
 ###
 
-<h3 align="center">GitHub Stats 📊</h3>
+<h2 align="center">GitHub Stats 📊</h2>
 
 ###
 
