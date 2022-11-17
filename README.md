@@ -17,15 +17,26 @@
 
 <h2 align="center">Projects 👨‍💻
 
+### CacheProxyService [<img src="resources/black-link.png" width="16px">](https://github.com/dpanfilyonok/CacheProxyService)
+Caching proxy web service for third-party geocoding service.
+</br>
+<span style="color:grey">&#x0023;assignment</span>
+
 ### Brahma.FSharp.REPL [<img src="resources/black-link.png" width="16px">](https://github.com/dpanfilyonok/Brahma.FSharp.REPL)
-Web app that allows you to translate F# code into OpenCL code online. 
+Web app that allows you to translate F# code into OpenCL code online.
+</br>
+<span style="color:grey">&#x0023;pet</span>
 
-### Brahma.FSharp [contributor] [<img src="resources/black-link.png" width="16px">](https://github.com/dpanfilyonok/Brahma.FSharp) 
-Library that provides the ability to use the OpenCL framework in F# programs. 
+### Brahma.FSharp [<img src="resources/black-link.png" width="16px">](https://github.com/dpanfilyonok/Brahma.FSharp) 
+Library that provides the ability to use the OpenCL framework in F# programs.
+</br>
+<span style="color:grey">&#x0023;contribution</span>
 
-### GraphBLAS-sharp [contributor] [<img src="resources/black-link.png" width="16px">](https://github.com/dpanfilyonok/GraphBLAS-sharp) 
+### GraphBLAS-sharp [<img src="resources/black-link.png" width="16px">](https://github.com/dpanfilyonok/GraphBLAS-sharp) 
 Library that implements a set of linear algebra operations for sparse structures on the GPU
-and GraphBLAS API for F# programming language. 
+and GraphBLAS API for F# programming language.
+</br>
+<span style="color:grey">&#x0023;contribution</span>
 
 <h2 align="center">Tech Stack 💻</h2>
 
