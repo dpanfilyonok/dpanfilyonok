@@ -25,23 +25,23 @@ A desktop application to perform CRUD operations on a set of entities.
 ### CacheProxyService [<img src="resources/black-link.png" width="16px">](https://github.com/dpanfilyonok/CacheProxyService)
 Caching proxy web service for third-party geocoding service.
 </br>
-<span style="color:grey">&#x0023;_assignment_</span>
+$\textcolor{grey}{\verb|#assignment|}$
 
 ### Brahma.FSharp.REPL [<img src="resources/black-link.png" width="16px">](https://github.com/dpanfilyonok/Brahma.FSharp.REPL)
-Web app that allows you to translate F# code into OpenCL code online.
+Web app that allows you to translate F# code into OpenCL code online. 
 </br>
-<span style="color:grey">&#x0023;_pet_</span>
+$\textcolor{grey}{\verb|#pet|}$
 
 ### Brahma.FSharp [<img src="resources/black-link.png" width="16px">](https://github.com/dpanfilyonok/Brahma.FSharp) 
 Library that provides the ability to use the OpenCL framework in F# programs.
 </br>
-<span style="color:grey">&#x0023;_contribution_</span>
+$\textcolor{grey}{\verb|#contribution|}$
 
 ### GraphBLAS-sharp [<img src="resources/black-link.png" width="16px">](https://github.com/dpanfilyonok/GraphBLAS-sharp) 
 Library that implements a set of linear algebra operations for sparse structures on the GPU
 and GraphBLAS API for F# programming language.
 </br>
-<span style="color:grey">&#x0023;_contribution_</span>
+$\textcolor{grey}{\verb|#contribution|}$
 
 <h2 align="center">Tech Stack 💻</h2>
 
