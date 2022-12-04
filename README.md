@@ -17,6 +17,11 @@
 
 <h2 align="center">Projects 👨‍💻
 
+### SimpleWPF [<img src="resources/black-link.png" width="16px">](https://github.com/dpanfilyonok/SimpleWPF)
+A desktop application to perform CRUD operations on a set of entities.
+</br>
+<span style="color:grey">&#x0023;_assignment_</span>
+
 ### CacheProxyService [<img src="resources/black-link.png" width="16px">](https://github.com/dpanfilyonok/CacheProxyService)
 Caching proxy web service for third-party geocoding service.
 </br>
